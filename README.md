@@ -5,6 +5,7 @@
 ## About the project:
 
 AluGames is a project developed during a programming logic course at Alura. The challenge was to implement various functionalities, such as changing the image color and modifying button behavior, primarily using JavaScript.
+ - [Check the project here](https://pamusialak.github.io/alugames)
 
 ## Features
 Change image colors
